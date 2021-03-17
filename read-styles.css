@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    background-color: #E4F9F5;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h2  {
+  font-family: Arial, Helvetica, sans-serif, !important;
+  font-size: 2.rem;
+  font-weight: normal;
+}
+.align-txt {
+    text-align: justify;
+    margin: 50px;
+}
+
+.photo_container {
+Width: 100;
+height 100;
+
+}
+
+.Armeda-photo {
+    height: 175px;
+    width: 250px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.Armeda-text {
+    display: inline-block;
+    width: 150px;
+    height: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.Dav-Nic-Meda-photo {
+    height: 175px;
+    width: 250px;
+    padding-left: 20px;
+    padding-right:  25px;
+}
+
+.David-text {
+    display: inline-block;
+    width: 225px;
+    height: 15px;
+    padding-left: 100px;
+}
+
+.Emma-EP-photo {
+    display: inline-block;
+    height: 175px;
+    width: 250px;
+    padding-left: 25px;
+}
+
+.Emma-EP-text {
+    display: inline-block;
+    width: 150px;
+    height: 15px;
+    padding-left: 125px;
+}
+
+.Mike-Erin-photo {
+    height: 225px;
+    width: 250px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.Mike-Erin-text {
+     display: inline-block;
+    width: 150px;
+    height: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.Noah-Sophia-photo {
+    height: 225px;
+    width: 250px;
+    padding-left: 20px;
+    padding-right:  25px;
+}
+
+.Noah-Sophia-text {
+    display: inline-block;
+    width: 225px;
+    height: 15px;
+    padding-left: 100px;
+}
+
+.The-Gang-photo {
+    display: inline-block;
+    height: 225px;
+    width: 250px;
+    padding-left: 25px;
+}
+
+.The-Gang-text {
+   display: inline-block;
+    width: 200px;
+    height: 15px;
+    padding-left: 125px;
+}
+
+.David-Family-photo {
+    height: 225px;
+    width: 250px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.David-Family-text {
+     display: inline-block;
+    width: 150px;
+    height: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+.Snow-Feb-2021-photo {
+    height: 225px;
+    width: 250px;
+    padding-left: 20px;
+    padding-right:  25px;
+}
+
+.Snow-Feb-text {
+    display: inline-block;
+    width: 225px;
+    height: 15px;
+    padding-left: 100px;
+}
+
+.M-D-Meda-photo {
+    display: inline-block;
+    height: 225px;
+    width: 250px;
+    padding-left: 25px;
+}
+
+.M-D-Meda-text {
+   display: inline-block;
+    width: 200px;
+    height: 15px;
+    padding-left: 125px;
+}

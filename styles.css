@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 50%;
+}
+
+a {
+    color: #11999E;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+
+     font-size: 5.625rem;
+     margin: 50px auto 0 auto;
+     font-family: 'Sacramento', cursive;
+     color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #11999E
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+h4 {
+    position: relative;
+    font-size: 300%;
+    font-family: 'Sacramento', cursive;
+    bottom: 50px;
+     color: #66BFBF;
+}
+
+.align-txt {
+    text-align: justify;
+    margin: 50px;
+}
+
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 25px;
+}
+
+.middle_container {
+
+    width: 200px;
+    height: 300px;
+}
+
+.bottom_container {
+    width: 200px;
+    height: 100px;
+}
+
+.top-cloud{
+    position: relative;
+    right: 100px;
+    float: right;
+     bottom: 25px;
+
+}
+.bottom-cloud {
+    position: absolute;
+    left: 100px;
+    bottom: 375px;
+}
+
+.img {
+margin: 20px;
+height: 150px;
+width: 150px;
+border-radius: 8px;
+
+}
+
+.img-container  {
+  position: relative;
+  width: 1050px;
+  height: 200px;
+  margin: auto;
+}
+
+.txt-container  {
+  position: relative;
+  width: 1050px;
+  height: 75px;
+  margin: auto;
+}
+
+
+.bowling {
+    position: absolute;
+    height: 150px;
+    width: 200px;
+    left: 5px;
+
+}
+.prog {
+   position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 225px;
+}
+.read {
+   position: absolute;
+    height: 150px;
+    width: 200px;
+    right: 450px;
+}
+.fitness {
+   position: absolute;
+    height: 150px;
+    width: 200px;
+    right: 230px;
+}
+.mycards {
+   position: absolute;
+    height: 150px;
+    width: 200px;
+    right: 10px;
+}
+
+.bowling2 {
+    position: relative;
+    height: 25px;
+    width: 200px;
+    left: 15px;
+    bottom: 35px;
+}
+
+.prog2 {
+    position:relative;
+    height: 25px;
+    width: 150px;
+    left: 230px;
+     bottom: 80px;
+}
+.read2 {
+    position: relative;
+    height: 25px;
+    width: 150px;
+    left: 425px;
+    bottom: 123px;
+
+}
+.fitness2 {
+    position: relative;
+    height: 25px;
+    width: 200px;
+    left: 620px;
+    bottom: 165px;
+}
+.mycards2 {
+    position: relative;
+    height: 25px;
+    width: 200px;
+    left: 840px;
+    bottom: 208px;
+}
+.contact-me {
+    position: relative;
+    height: 25px;
+    width: 200px;
+    left: 375px;
+    bottom: 200px;
+}
+

@@ -1,0 +1,55 @@
+
+body {
+    text-align: center;
+    background-color: #E4F9F5;
+    font-family: 'Merriweather', serif;
+}
+
+.croom-container {
+    width: 1050;
+    height: 450px;
+    padding-right: 500px;
+}
+
+.comp-room {
+    position: absolute;
+    margin-top: 40px;
+    width: 500px;
+    height: 350px;
+}
+
+
+.hob1_container {
+    text-align: center;
+
+  width: 1050;
+  height: 500px;
+
+}
+
+.apple {
+    height: 200px;
+    width: 300px;
+    padding-left: 50px;
+    padding-right:  60px;
+
+}
+
+.python2 {
+    height: 200px;
+    width: 300px;
+
+}
+
+.html {
+    height: 200px;
+    width: 300px;
+    padding-left: 50px;
+    padding-right:  60px;
+
+}
+
+.swift {
+    height: 200px;
+    width: 300px;
+}
